@@ -1,16 +1,20 @@
-## Hi there 👋
+I'm a Staff Engineer @ [Appsilon](https://www.appsilon.com).
 
-<!--
-**szymanskir/szymanskir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎤 Talks & Presentations
+- **Deploy with Confidence: Strategies to Maximize Success (on Posit Connect)** — *posit::conf(2025)*  
+  🔗 [Recording](https://www.youtube.com/watch?v=QEEGLWj0nas)
 
-Here are some ideas to get you started:
+- **{shiny.tictoc} measuring Shiny performance, without the headaches** — *ShinyConf 2024*  
+  🔗 [Recording](https://www.youtube.com/watch?v=kkuXGKTXkzU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Speeding Up Plots in R/Shiny** — *posit::conf(2023)*  
+  🔗 [Recording](https://www.youtube.com/watch?v=U2mPB-b-6y4)
+
+## 🏆 Contests & Hackathons
+
+- **Honorable Mention** — *2022 Table Contest*   
+  🔗 [Project Repo](https://github.com/szymanskir/table-contest-2022) | [Demo](https://szymanskir.quarto.pub/tidyverse_in_numbers/) | [Event Page](https://posit.co/blog/winners-of-the-2022-table-contest/)
+
+  
+- **Honorable Mention** — *2021 Table Contest*   
+  🔗 [Project](https://forum.posit.co/t/fast-big-data-tables-in-shiny/121358) | [Event Page](https://posit.co/blog/winners-of-the-2021-table-contest/)
